@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Friction - https://friction.graphics -->
+
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1080" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(960.4 532.724)">
+  <g transform="translate(0 0)">
+   <g transform="rotate(0)">
+    <g>
+     <animateTransform keySplines="0 0 1 1;0 0 1 1;0 0 1 1" attributeName="transform" dur="1s" repeatCount="indefinite" values="1 1;1 1;1.2 1;1 1" begin="mouseenter" end="mouseleave" calcMode="spline" keyTimes="0;0;0.5;1" type="scale"/>
+     <g>
+      <animateTransform keySplines="0 0 1 1;0 0 1 1;0 0 1 1" attributeName="transform" dur="1s" repeatCount="indefinite" values="1 1;1 1;1 1.2;1 1" begin="mouseenter" end="mouseleave" calcMode="spline" keyTimes="0;0;0.5;1" type="scale"/>
+      <g transform="skewX(0) skewY(0)">
+       <g opacity="1" transform="translate(-960.4 -532.724)">
+        <g>
+         <g transform="translate(5 5)">
+          <g transform="translate(-150.246 -99.3508)">
+           <g transform="rotate(0)">
+            <g transform="scale(1 1)">
+             <g transform="skewX(0) skewY(0)">
+              <g opacity="1" transform="translate(-5 -5)">
+               <rect rx="0" x="0" stroke-width="10" width="2221.29" ry="0" height="1264.15" stroke="none" y="0" fill="rgba(0, 0, 58, 1)"/>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g transform="translate(0 0)">
+          <g transform="translate(222.979 222.706)">
+           <g transform="rotate(0)">
+            <g transform="scale(1 1)">
+             <g transform="skewX(0) skewY(0)">
+              <g opacity="1" transform="translate(0 0)">
+               <ellipse rx="83.0312" cy="0" stroke-width="10" ry="83.0312" stroke="rgba(0, 102, 255, 1)" cx="0" fill="none"/>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g transform="translate(0 0)">
+          <g transform="translate(235.019 719.337)">
+           <g transform="rotate(0)">
+            <g transform="scale(1 1)">
+             <g transform="skewX(0) skewY(0)">
+              <g opacity="1" transform="translate(0 0)">
+               <ellipse rx="181.219" cy="0" stroke-width="10" ry="181.219" stroke="rgba(0, 102, 255, 1)" cx="0" fill="none"/>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g transform="translate(0 0)">
+          <g transform="translate(752.718 857.791)">
+           <g transform="rotate(0)">
+            <g transform="scale(1 1)">
+             <g transform="skewX(0) skewY(0)">
+              <g opacity="1" transform="translate(0 0)">
+               <ellipse rx="181.219" cy="0" stroke-width="10" ry="181.219" stroke="rgba(0, 102, 255, 1)" cx="0" fill="none"/>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g transform="translate(0 0)">
+          <g transform="translate(701.55 123.38)">
+           <g transform="rotate(0)">
+            <g transform="scale(1 1)">
+             <g transform="skewX(0) skewY(0)">
+              <g opacity="1" transform="translate(0 0)">
+               <ellipse rx="121.779" cy="0" stroke-width="10" ry="121.779" stroke="rgba(0, 102, 255, 1)" cx="0" fill="none"/>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g transform="translate(0 0)">
+          <g transform="translate(1288.48 171.538)">
+           <g transform="rotate(0)">
+            <g transform="scale(1 1)">
+             <g transform="skewX(0) skewY(0)">
+              <g opacity="1" transform="translate(0 0)">
+               <ellipse rx="172.511" cy="0" stroke-width="10" ry="172.511" stroke="rgba(0, 102, 255, 1)" cx="0" fill="none"/>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g transform="translate(0 0)">
+          <g transform="translate(1255.37 598.941)">
+           <g transform="rotate(0)">
+            <g transform="scale(1 1)">
+             <g transform="skewX(0) skewY(0)">
+              <g opacity="1" transform="translate(0 0)">
+               <ellipse rx="79.4631" cy="0" stroke-width="10" ry="79.4631" stroke="rgba(0, 102, 255, 1)" cx="0" fill="none"/>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g transform="translate(0 0)">
+          <g transform="translate(1631.6 863.811)">
+           <g transform="rotate(0)">
+            <g transform="scale(1 1)">
+             <g transform="skewX(0) skewY(0)">
+              <g opacity="1" transform="translate(0 0)">
+               <ellipse rx="232.229" cy="0" stroke-width="10" ry="232.229" stroke="rgba(0, 102, 255, 1)" cx="0" fill="none"/>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+        </g>
+       </g>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+ <g transform="translate(0 0)">
+  <g transform="translate(960 540)">
+   <g transform="rotate(0)">
+    <g>
+     <animateTransform keySplines="0 0 1 1;0 0 1 1;0 0 1 1" attributeName="transform" dur="1s" repeatCount="indefinite" values="1 1;1 1;2 1;1 1" begin="mouseenter" end="mouseleave" calcMode="spline" keyTimes="0;0;0.5;1" type="scale"/>
+     <g>
+      <animateTransform keySplines="0 0 1 1;0 0 1 1;0 0 1 1" attributeName="transform" dur="1s" repeatCount="indefinite" values="1 1;1 1;1 2;1 1" begin="mouseenter" end="mouseleave" calcMode="spline" keyTimes="0;0;0.5;1" type="scale"/>
+      <g transform="skewX(0) skewY(0)">
+       <g opacity="1" transform="translate(0 0)">
+        <ellipse rx="247.47" cy="0" stroke-width="10" ry="247.47" stroke="rgba(0, 102, 255, 1)" cx="0" fill="rgba(0, 0, 0, 1)"/>
+       </g>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs/>
+</svg>

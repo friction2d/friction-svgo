@@ -1,0 +1,32 @@
+name: CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: setup
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+      - name: install
+        run: npm install
+      - name: patch
+        run: ./patch.sh
+      - name: build
+        run: npx pkg node_modules/svgo
+      - name: artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: friction-svgo
+          path: |
+            svgo-win.exe
+            svgo-linux
