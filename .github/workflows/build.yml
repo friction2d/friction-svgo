@@ -19,8 +19,6 @@ jobs:
           node-version: 18
       - name: install
         run: npm install
-      - name: patch
-        run: ./patch.sh
       - name: build
         run: npx pkg node_modules/svgo
       - name: artifacts
