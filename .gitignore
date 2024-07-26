@@ -3,3 +3,4 @@ package-lock.json
 svgo-linux
 svgo-macos
 svgo-win.exe
+out.svg
